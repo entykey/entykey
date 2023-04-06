@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on small and medium projects
 - 📫 Looking forward to studying Golang web API
 
-My skillset:
+# My skillset:
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,dotnet,mongodb,netlify,materialui&perline=3)](https://skillicons.dev)
 
 <!---
