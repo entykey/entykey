@@ -5,7 +5,7 @@
 - 📫 Looking forward to studying Golang web API
 
 # My skillset:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,dotnet,mongodb,netlify,materialui&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,dotnet,mongodb,netlify,materialui,js,nodejs,tsx&perline=3)](https://skillicons.dev)
 
 <!---
 entykey/entykey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
