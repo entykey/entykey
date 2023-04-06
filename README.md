@@ -6,9 +6,9 @@
 
 # My skillset:
 ## Deployment:
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,netlify,heroku&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,netlify,heroku&perline=6)](https://skillicons.dev)
 
-## Deployment:
+## Tech stack:
 [![My Skills](https://skillicons.dev/icons?i=react,dotnet,mongodb,materialui,js,ts,nodejs,express&perline=6)](https://skillicons.dev)
 <!---
 entykey/entykey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
