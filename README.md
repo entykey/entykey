@@ -3,6 +3,8 @@
 - 🌱 I’m currently studying Nodejs, MongoDB, MySQL, ASP.NET Core Web API, ReactJS, ExpressJS
 - 💞️ I’m looking to collaborate on small and medium projects
 - 📫 Looking forward to studying Golang web API
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # My skillset:
 ## Deployment:
