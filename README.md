@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @entykey
-- 👀 I’m interested in Web App developing
-- 🌱 I’m currently studying Nodejs, MongoDB, MySQL, ASP.NET Core Web API, ReactJS, ExpressJS
+- 👀 I’m interested in ASP.NET Web App developing
+- 🌱 I’m currently studying ASP.NET Core Web API, ReactJS, Nodejs, MongoDB, MySQL, , ExpressJS
 - 💞️ I’m looking to collaborate on small and medium projects
 - 📫 Looking forward to studying Golang web API
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=compact&langs_count=10&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
