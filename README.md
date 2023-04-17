@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on small and medium projects
 - 📫 Looking forward to studying Golang web API
 - 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+```md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+```
+
 
 # My skillset:
 ## Deployment:
