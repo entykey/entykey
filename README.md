@@ -5,7 +5,6 @@
 - 📫 Looking forward to studying Golang web API
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=compact&langs_count=12&theme=vision-friendly-dark)](https://github.com/entykey)
 
 
 
