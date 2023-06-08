@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @entykey
-- 👀 I’m interested in ASP.NET Web App developing
+- 👀 I’m interested in ASP.NET Web App development and deployment
 - 🌱 I’m currently studying ASP.NET Core Web API, ReactJS, Nodejs, MongoDB, MySQL, , ExpressJS
 - 💞️ I’m looking to collaborate on small and medium projects
 - 📫 Looking forward to studying Golang web API
