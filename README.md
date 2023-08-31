@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying ASP.NET Core Web API, Actix-Web, Yew, ReactJS, Nodejs, MongoDB, MySQL, ExpressJS
 - 💞️ I’m looking to collaborate on small and medium projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=compact&langs_count=14&theme=vision-friendly-dark)](https://github.com/entykey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=donut-vertical&langs_count=18&theme=vision-friendly-dark)](https://github.com/entykey)
 [![Stats](https://github-readme-stats.vercel.app/api?username=entykey&show_icons=true&theme=transparent)](https://github.com/entykey)
 
 
