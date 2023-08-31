@@ -5,7 +5,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=donut-vertical&langs_count=18&theme=vision-friendly-dark)](https://github.com/entykey)
 [![Stats](https://github-readme-stats.vercel.app/api?username=entykey&show_icons=true&theme=transparent)](https://github.com/entykey)
-
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=donut-vertical&langs_count=18&theme=vision-friendly-dark"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=entykey&show_icons=true&theme=transparent"/>
+<div>
 
 # My skillset:
 ## Deployment:
