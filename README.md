@@ -6,6 +6,7 @@
 <div>
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=donut-vertical&langs_count=18&theme=vision-friendly-dark"/>
     <img align=top src="https://github-readme-stats.vercel.app/api?username=entykey&show_icons=true&theme=vision-friendly-dark"/>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=entykey&rank_icon=github&theme=vision-friendly-dark" />
 <div>
 
 # My skillset:
