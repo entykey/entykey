@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @entykey
-- 👀 I’m interested in ASP.NET / Actix_Web/Ntex Backend development and deployment
+- 👀 I’m interested in ASP.NET / Actix_Web / Ntex, High Performance Backend development and deployment
 - 🌱 I’m currently studying ASP.NET Core Web API, Actix-Web, Yew, ReactJS, Nodejs, MongoDB, MySQL, ExpressJS
 - 💞️ I’m looking to collaborate on small and medium projects
 
