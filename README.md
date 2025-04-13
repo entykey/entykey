@@ -31,17 +31,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=entykey&show_icons=true&rank_icon=percentile&theme=vision-friendly-dark"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=donut-vertical&langs_count=8&theme=vision-friendly-dark"/>
+  <a href="https://github.com/entykey">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=entykey&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&rank_icon=percentile&custom_title=My%20GitHub%20Stats" />
+  </a>
+  <a href="https://github.com/entykey">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true&card_width=400" />
+  </a>
 </div>
 
 ## 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=entykey&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=entykey&theme=onedark&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🌟 Recent Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=entykey&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=entykey&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
