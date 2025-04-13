@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @entykey
-- 👀 I’m interested in ASP.NET / Actix_Web / Ntex, High Performance Backend development and deployment
-- 🌱 I’m currently studying ASP.NET Core Web API, Actix-Web, Yew, ReactJS, Nodejs, MongoDB, MySQL, ExpressJS
+- 👀 I’m interested in Go / Rust / ASP.NET, High Performance Backend development and deployment
+- 🌱 I’m currently studying Microservices, Kubernetes, Kafka, gRPC, CI/CD
 - 💞️ I’m looking to collaborate on small and medium projects
 
 <div>
@@ -14,5 +14,8 @@
 entykey/entykey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=entykey&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 # My activities:
 [![Nguyen Huu Anh Tuan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=entykey&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
