@@ -9,7 +9,7 @@
 <div>
 
 ## Tech stack:
-[![My Skills](https://skillicons.dev/icons?i=go,rust,dotnet,mysql,postgresql,mongodb,react,bootstrap,cs,codepen,js,ts,nodejs,express&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,dotnet,mysql,postgresql,docker,ubuntu,mongodb,react,bootstrap,cs,codepen,js,ts,nodejs,express&perline=6)](https://skillicons.dev)
 <!---
 entykey/entykey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
