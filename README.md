@@ -6,15 +6,10 @@
 <div>
     <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=donut-vertical&langs_count=18&theme=vision-friendly-dark"/>
     <img align=top src="https://github-readme-stats.vercel.app/api?username=entykey&show_icons=true&rank_icon=percentile&theme=vision-friendly-dark"/>
-
 <div>
 
-# My skillset:
-## Deployment:
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,netlify,heroku&perline=6)](https://skillicons.dev)
-
 ## Tech stack:
-[![My Skills](https://skillicons.dev/icons?i=react,dotnet,mongodb,materialui,bootstrap,cs,codepen,js,ts,nodejs,express&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,rust,dotnet,mysql,postgresql,mongodb,react,bootstrap,cs,codepen,js,ts,nodejs,express&perline=6)](https://skillicons.dev)
 <!---
 entykey/entykey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
