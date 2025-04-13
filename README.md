@@ -34,8 +34,9 @@
   <a href="https://github.com/entykey">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=entykey&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&rank_icon=percentile&custom_title=My%20GitHub%20Stats" />
   </a>
-  <a href="https://github.com/entykey">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true&card_width=400" />
+<!--   <a href="https://github.com/entykey">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true&card_width=400" /> -->
+  <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=entykey&layout=donut-vertical&langs_count=18&theme=vision-friendly-dark"/>
   </a>
 </div>
 
